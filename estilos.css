@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#form1{
+    border-radius: 14%;
+    margin-top: 100px;
+    background-color: cornflowerblue;
+    display: flex;
+flex-direction: column;
+padding: 20px;
+
+    }
